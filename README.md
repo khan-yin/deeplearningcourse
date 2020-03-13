@@ -1,0 +1,2 @@
+# deeplearningcourse
+最近在学pytorch和deeplearning的cv这一块，继续加油吧，看的主要是吴恩达机器学习和动手学深度学习
